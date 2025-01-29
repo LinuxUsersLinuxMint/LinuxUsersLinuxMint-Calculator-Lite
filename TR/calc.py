@@ -28,4 +28,4 @@ elif islem=="5":
 elif islem=="6":
     Mod(s1,s2)
 else:
-    error_msg(error_dialog)
+    error_msg(error_dialog,"","")

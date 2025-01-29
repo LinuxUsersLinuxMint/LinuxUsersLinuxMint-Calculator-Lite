@@ -11,7 +11,7 @@ cmd=str("calc> ")
 error_dialog = "Invalid Process!"
 
 print("calc> Transactions you can enter: ")
-print("Addition\nSubraction\nMultiplication\nDivision\nPercentage\n1,2,3,4,5,6")
+print("Addition\nSubraction\nMultiplication\nDivision\nPercentage\nMod\n1,2,3,4,5,6")
 n1=float(input('{0} Enter The 1st Number: '. format(cmd)))
 n2=float(input('{0} Enter The 2st Number: '. format(cmd)))
 process=input('{0} Enter the Transaction You Want to Perform: '. format(cmd))
@@ -28,4 +28,4 @@ elif process=="5":
 elif process=="6":
     Mod(s1,s2)
 else:
-    error_msg(error_dialog)
+    error_msg(error_dialog,"","")
