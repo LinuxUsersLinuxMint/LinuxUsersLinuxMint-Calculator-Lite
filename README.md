@@ -1,4 +1,4 @@
-# Python-Calcutator-Lite
+# LinuxUsersLinuxMint-Calcutator-Lite
 
 TR:
 
