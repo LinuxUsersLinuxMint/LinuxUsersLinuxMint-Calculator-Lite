@@ -2,10 +2,10 @@
 """ Copyright© 2023-2025 LinuxUsersLinuxMint
 LinuxUsersLinuxMint Calcutator-Lite Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
 LinuxUsersLinuxMint Calcutator-Lite All Rights Reserved under the GPL(General Public License).
-Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite
-A Copy of This Software is published on GitHub To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite"""
+Bu Yazılımın Bir Kopyası GİTHUB da yayınlanmaktadır Görüntülemek için: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite
+A Copy of This Software is published on GITHUB To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite"""
 
-about = "LinuxUsersLinuxMint-Calculator-Lite 2.2"
+about = "LinuxUsersLinuxMint-Calculator-Lite 2.3"
 lang=input("Language: ")
 
 if lang == "tr" or lang == "TR":
