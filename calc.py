@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """ Copyright© 2023-2025 LinuxUsersLinuxMint
-LinuxUsersLinuxMint Calcutator-Lite Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
-LinuxUsersLinuxMint Calcutator-Lite All Rights Reserved under the GPL(General Public License).
-Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite
-A Copy of This Software is published on GitHub To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutator-Lite"""
+LinuxUsersLinuxMint Calculator-Lite Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
+LinuxUsersLinuxMint Calculator-Lite All Rights Reserved under the GPL(General Public License).
+Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calcutalor-Lite
+A Copy of This Software is published on GitHub To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calculator-Lite"""
 
 from Lang.lang import *
 from Lib.Basic_Maths.Basic_Maths import *

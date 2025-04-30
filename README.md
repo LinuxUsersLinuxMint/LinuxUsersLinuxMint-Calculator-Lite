@@ -1,4 +1,4 @@
-# LinuxUsersLinuxMint-Calcutator-Lite
+# LinuxUsersLinuxMint-Calculator-Lite
 
 TR:
 
