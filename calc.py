@@ -6,8 +6,6 @@ Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için:
 A Copy of This Software is published on GitHub To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calculator-Lite"""
 
 from Lang.lang import *
-from Lib.Basic_Maths.Basic_Maths import *
-from Lib.PyAppDevKit.pyappdevkit import *
 
 while True:
     print(process_list)
